@@ -31,7 +31,9 @@
 
 - [ ] AWS CloudTrail
 
+- [ ] Monitorar os avisos de segurança da AWS
 
+- [ ] Habilitar o log de acesso ao servidor Amazon S3
 
 
 
