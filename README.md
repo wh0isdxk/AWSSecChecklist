@@ -6,3 +6,38 @@
 
 
 </p>
+
+- [ ] Verifique se seus buckets do Amazon S3 usam as políticas corretas e não estão acessíveis ao público
+
+- [ ] Implementar o acesso com menos privilégios
+
+- [ ] Use funções do IAM para aplicativos e serviços da AWS que exigem acesso ao Amazon S3
+
+- [ ] Ativar autenticação multifator (MFA) Excluir
+
+- [ ] Criptografia do lado do servidor
+
+- [ ] Do lado do cliente Encryption 
+
+- [ ] Aplicar criptografia de dados em trânsito
+
+- [ ] Considere o bloqueio de objeto S3
+
+- [ ] Ativar controle de versão
+
+- [ ] Considere a replicação entre regiões do Amazon S3
+
+- [ ] Considere os pontos finais da VPC para acesso ao Amazon S3
+
+- [ ] AWS CloudTrail
+
+
+
+
+
+<p align="center">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.michalsons.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcyber-security-1915626_1280.png&f=1&nofb=1" width=80 height=80>
+
+
+</p>
