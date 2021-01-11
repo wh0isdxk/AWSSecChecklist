@@ -27,7 +27,7 @@
 
 - [ ] Considere a replicação entre regiões do Amazon S3
 
-- [ ] Considere os pontos finais da VPC para acesso ao Amazon S3
+- [ ] Considere os endpoints da VPC para acesso ao Amazon S3
 
 - [ ] AWS CloudTrail
 
