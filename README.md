@@ -13,7 +13,7 @@
 
 - [ ] Use funções do IAM para aplicativos e serviços da AWS que exigem acesso ao Amazon S3
 
-- [ ] Ativar autenticação multifator (MFA) Excluir
+- [ ] Ativar autenticação multifator (MFA) 
 
 - [ ] Criptografia do lado do servidor
 
